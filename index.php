@@ -28,6 +28,7 @@ echo "            border-radius: 10px;\n";
 echo "            margin-top: 100px;\n";
 echo "            margin-left: 500px;\n";
 echo "            margin-right: 500px;\n";
+echo "            margin-bottom: 100px;\n";
 echo "        }\n";
 echo "        .center{\n";
 echo "            text-align: center;\n";
