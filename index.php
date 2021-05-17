@@ -5,7 +5,7 @@ echo "<html lang=\"en\">\n";
 echo "\n";
 echo "<head>\n";
 echo "    <link rel=\"shortcut icon\" href=\"D.JPG\" type=\"image/x-icon\">\n";
-echo "    <title>DONATE THE NEED</title>\n";
+echo "    <title>DONATE FOR THE NEED</title>\n";
 echo "    <style>\n";
 echo "        .head {\n";
 echo "            background-color:white;\n";
