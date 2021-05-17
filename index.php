@@ -13,7 +13,7 @@ echo "            opacity: 0.7;\n";
 echo "            border-radius: 10px;\n";
 echo "        }\n";
 echo "        .footer {\n";
-
+echo "            position: relative;\n";
 echo "            border-radius: 10px;\n";
 echo "            margin-top: 10px;\n";
 echo "            margin-left: 50px;\n";
@@ -26,6 +26,7 @@ echo "            height: 160px;\n";
 echo "        }\n";
 echo "        \n";
 echo "        .container{\n";
+echo "            position: relative;\n";
 echo "            background-image: linear-gradient(to right, #fcf7f7, rgb(245, 239, 244));\n";
 echo "            opacity: 0.7;\n";
 echo "            border-radius: 10px;\n";
@@ -68,7 +69,7 @@ echo "        <div class=\"footer\" style=\"background-color: #c965ff; opacity: 
 echo "\n";
 echo "            <!-- Footer Links -->\n";
 echo "            <div >\n";
-echo "                <p style=\"color:rgb(66, 66, 66);padding:7px; font-family: sans-serif;\">JOIN OUR HANDS AND HELP OTHERS<br>THE WORLD NEEDS YOUR CONCERN<br> HELP US<BR><BR><BR></p>\n";
+echo "                <p style=\"color:rgb(66, 66, 66);padding:7px; font-family: sans-serif;\">JOIN OUR HANDS AND HELP OTHERS<br>THE WORLD NEEDS YOUR CONCERN<br> HELP US<BR><BR></p>\n";
 echo "            \n";
 echo "                <p style=\"color: aqua; text-align:end; padding-right:10px\">© 2021 Copyright : ARAVINDHAN P | THE SPARK FOUNDATION</p>\n";
 echo "            </div>\n";
