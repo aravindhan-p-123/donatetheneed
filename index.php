@@ -41,7 +41,7 @@ echo "\n";
 echo "            text-align: center;\n";
 echo "            background-image: url('ee.jpg');\n";
 echo "             background-repeat: no-repeat; \n";
-echo "             background-size:1250px; \n";
+echo "             background-size:100%; \n";
 echo "             \n";
 echo "        }\n";
 echo "\n";
