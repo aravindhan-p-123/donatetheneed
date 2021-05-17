@@ -60,7 +60,7 @@ echo "            \n";
 echo "        </div>\n";
 echo "\n";
 echo "        <!-- Footer -->\n";
-echo "        <footer class=\"footer\" style=\"background-color: #c965ff; opacity: 0.7; \">\n";
+echo "        <footer class=\"footer\" style=\"background-color: #c965ff; opacity: 0.8; \">\n";
 echo "\n";
 echo "            <!-- Footer Links -->\n";
 echo "            <div >\n";
