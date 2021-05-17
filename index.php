@@ -9,9 +9,11 @@ echo "    <link rel=\"shortcut icon\" href=\"D.JPG\" type=\"image/x-icon\">\n";
 echo "    <title>DONATE THE NEED</title>\n";
 echo "    <style>\n";
 echo "        .head {\n";
+echo "            position: relative;\n";
 echo "            background-color:white;\n";
 echo "            opacity: 0.7;\n";
 echo "            border-radius: 10px;\n";
+
 echo "        }\n";
 echo "        .footer {\n";
 echo "            position: relative;\n";
