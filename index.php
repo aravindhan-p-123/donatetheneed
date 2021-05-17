@@ -68,7 +68,7 @@ echo "        <div class=\"footer\" style=\"background-color: #c965ff; opacity: 
 echo "\n";
 echo "            <!-- Footer Links -->\n";
 echo "            <div >\n";
-echo "                <p style=\"color:rgb(66, 66, 66); font-family: sans-serif;\">JOIN OUR HANDS AND HELP OTHERS<br>THE WORLD NEEDS YOUR CONCERN<br> HELP US<BR><BR><BR></p>\n";
+echo "                <p style=\"color:rgb(66, 66, 66);padding:7px; font-family: sans-serif;\">JOIN OUR HANDS AND HELP OTHERS<br>THE WORLD NEEDS YOUR CONCERN<br> HELP US<BR><BR><BR></p>\n";
 echo "            \n";
 echo "                <p style=\"color: aqua; text-align:end; padding-right:10px\">© 2021 Copyright : ARAVINDHAN P | THE SPARK FOUNDATION</p>\n";
 echo "            </div>\n";
