@@ -17,7 +17,7 @@ echo "            margin-left: 50px;\n";
 echo "            margin-right: 50px;\n";
 echo "            margin-bottom: 10PX;\n";
 echo "            left: 20px;\n";
-echo "            right: 20px;\n";
+echo "            right: 200px;\n";
 echo "            bottom: 100%;\n";
 echo "            height: 160px;\n";
 echo "        }\n";
