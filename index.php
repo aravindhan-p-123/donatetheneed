@@ -23,7 +23,7 @@ echo "        }\n";
 echo "        \n";
 echo "        .container{\n";
 echo "            background-image: linear-gradient(to right, #fcf7f7, rgb(245, 239, 244));\n";
-echo "            opacity: 0.7;\n";
+echo "            opacity: -1;\n";
 echo "            border-radius: 10px;\n";
 echo "            margin-top: 100px;\n";
 echo "            margin-left: 500px;\n";
