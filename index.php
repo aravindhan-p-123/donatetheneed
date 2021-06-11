@@ -58,7 +58,7 @@ echo "                <img src=\"q.png\"  alt=\"logo\" height=\"110\" style= \"b
 echo "        </header>\n";
 echo "\n";
 echo "        <div class=\"container\">\n";
-echo "            <h2 style=\"font-weight: bold; font-family:  sans-serif; color:rgb(90, 89, 89); padding-top: 20PX;\">Task-3:Payment Gateway Integration<br>\n";
+echo "            <h2 style=\"font-weight: bold; font-family:  sans-serif; color:rgb(90, 89, 89); padding-top: 20PX;\"><br>\n";
 echo "             LITTLE GIVE MORE SAVE <br> THE WORLD NEEDS YOU</h2>\n";
 echo "            <h3 style=\"color: rgb(253, 119, 197); font-family: sans-serif; padding-bottom: 25PX;\">DONATE US</h3>\n";
 echo "                <!-- Payment Button -->\n";
